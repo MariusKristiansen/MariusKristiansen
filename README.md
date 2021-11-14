@@ -1,2 +1,2 @@
-![header](img/241174821_4380248385363691_8627320598000564225_n.jpg)
+![Metrics](https://github.com/MariusKristiansen/MariusKristiansen/blob/master/github-metrics.svg)  
 # Oooweee
