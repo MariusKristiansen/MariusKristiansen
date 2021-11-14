@@ -1,2 +1,2 @@
-![Metrics](https://github.com/MariusKristiansen/MariusKristiansen/blob/master/github-metrics.svg)  
+![Metrics](https://github.com/MariusKristiansen/MariusKristiansen/blob/main/github-metrics.svg)
 # Oooweee
